@@ -2,7 +2,7 @@
 
 You must create a modal component that opens and closes when a button is clicked. Inside the modal, you need to render a table of users.
 
-Table columns: **Name**, **E-mail**, **Active**.
+Table columns: **Name**, **E-mail**, **Status**.
 
 **Rules:**
 
