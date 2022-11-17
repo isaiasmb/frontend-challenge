@@ -19,3 +19,5 @@ Table columns: **Name**, **E-mail**, **Status**.
 - You can use styled-components or just CSS for the styles.
 - You can create tests with Jest and testing-library.
 - You must create all of the components in typescript.
+
+:exclamation: It is not allowed to use libraries such as Bootstrap, Material UI, etc...
